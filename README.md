@@ -41,5 +41,4 @@ U8 直报直调提词器是一款专为演讲、录课、直播设计的专业�
 
 ## 📄 版权说明
 
-Copyright © 2003-2025 AVCON. All Rights Reserved. 
-华平股份 版权所有
+Copyright © 2003-2026 by haoyu qi
